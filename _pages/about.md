@@ -4,8 +4,8 @@ title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 
 Welcome! I am a third-year Ph.D. student in the Department of Political Science at Penn State University. I study international political economy and foreign policies, with a particular focus on the role of firms/business in the politics of climate change, trades wars, and economic sanctions.
