@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Global Value Chains and Corporate Opposition to Sanctions
 
-{% include base_path %}
+Abstract
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Economic sanctions entail high costs not only for target states but also for sending states, particularly the business sector. While considerable literature exists on state-level sanctions interactions, less is known about business actors' responses and political influence on sanctions. This paper examines the circumstances under which firms attempt to influence sanction policies during the decision-making process of the state imposing them. Specifically, it investigates how firms' international expansion affects their motivation to lobby against sanction issues in the US Congress, with a focus on a phenomenon central to economic globalization: global value chain (GVC) integration. I have collected information on US firms that have lobbied on bills proposing economic sanctions against Russian industries and firms from 2014 to 2022. The findings indicate that lobbying is significantly more likely when there is greater GVC participation of Russian industries, as well as US firms’ foreign investment and import activities related to Russia.
+
+[Download]()
+
+## Do Firm-level Climate Change Risks Drive Firm Lobby in Climate Change Policies? (with Xun Cao)
+
+
