@@ -1,5 +1,5 @@
 ---
-title: "Global Value Chains and Corporates’ Opposition to Sanctions"
+title: "Global Value Chains and Corporates' Opposition to Sanctions"
 collection: publications
 permalink: /publication/GVC_sanction
 ---
