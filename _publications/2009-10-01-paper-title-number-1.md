@@ -2,11 +2,6 @@
 title: "Global Value Chains and Corporates’ Opposition to Sanctions"
 collection: publications
 permalink: /publication/GVC_sanction
-excerpt: '.'
-date: 2023-08-31
-venue: ''
-paperurl: ''
-citation: ''
 ---
 Abstract
 
