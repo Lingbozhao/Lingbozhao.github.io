@@ -4,13 +4,13 @@ main:
   - title: "Home"
     url: /home/
   
-   - title: "CV"
+  - title: "CV"
     url: /cv/
   
   - title: "Papers"
     url: /publications/
 
- - title: "Dissertation"
+  - title: "Dissertation"
     url: /dissertation/
 
   - title: "Data"
