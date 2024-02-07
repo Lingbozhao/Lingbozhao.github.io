@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found **<a href="https://www.dropbox.com/scl/fi/rbajzm1qs76gejv10airf/Lingbo_CV-3.pdf?rlkey=8m3lbu4ij9uydok23zr05vwk5&dl=0">HERE</a>**
+My CV can be found **<a href="https://www.dropbox.com/scl/fi/bxhim9waydc0b1v4rdyip/Lingbo_CV-2.pdf?rlkey=5gqad2s273nx6he84ozkgi33f&dl=0">HERE</a>**
