@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research and Papers"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -29,7 +29,7 @@ Abstract
 
 Are firms associated with higher climate change physical risks (e.g., from wildfire and floods) and regulatory risks (e.g., regulations banning/heavily taxing fossil fuel extraction) more likely to act politically to affect climate change policies? Do firms associated with climate-related opportunities (e.g., those in renewable energy) push for more climate policies? To answer these important questions, we use a newly available data on firm climate risks, and we test whether and how these firm level climate risks affect three types of firm political actions: 1) lobbying, 2) participation in ad hoc climate coalitions, and 3) donations. Our empirical analysis covers all listed companies in North America from 2001 to 2020. We find that first, a firm's physical exposure to climate change has no effect on any type of political action. Second, both firm regulatory and opportunity exposures increase the chances of a firm lobbying in climate-related policies. Third, firm regulatory exposure is positively associated with coalition membership regardless of whether a coalition supports or opposes climate policies, while opportunity exposure is only positively associated with coalitions favoring climate policies. Finally, we find that none of the firm-year level climate exposure measures is associated with firm donation.  
 
-[Download](https://www.dropbox.com/scl/fi/c5irbg8pad9tz3y8y9ryj/firm_risks_and_climate_political_actions-1.pdf?rlkey=rpktndo6cay9t2dzhl4pg9l0x&st=s9pm0xnv&dl=0)
+[Presentation Slides](https://www.dropbox.com/scl/fi/nko807z4zbpnt15p8r9dj/APSA_24__Xun_Lingbo-1.pdf?rlkey=pqj9hc70ir23ga9h16wf9br4a&st=nllf8dj9&dl=0)
 
 ## (Work in progress) Supply Chains and Political Strategies: Analyzing Firm Responses to the EU's Carbon Border Adjustment Mechanism
 
@@ -40,7 +40,7 @@ The EU's Carbon Border Adjustment Mechanism (CBAM) charges a carbon price on imp
 
 Using firm-level supply chain data and the EU lobbying records, the empirical analysis examines whether firms' reliance on suppliers from cleaner or dirtier states shapes their stances on supporting or opposing the CBAM and related legislation. Specifically, the main outcome variable is on EU-based firms' political activities using the lobbying and public expressions archived provided by the EU Transparency Register. The paper not only determines whether a firm has lobbied on relevant issues but also analyzes the firms' stances using text analysis approaches applied to the documents they submitted during the EU's public consultation sessions. The main independent variable is based on firm-level supply chain information from the Factset Revere Dataset and the state-level emission regulation development indicators based on the Regulatory Indicators for Sustainable Energy (RISE) Dataset provided by the World Bank. 
 
-## (Sideline project) Naturalized Athletes and Racialized National Identity in China (with Enze Han)
+## Naturalized Athletes and Racialized National Identity in China (with Enze Han)
 
 
 Abstract
