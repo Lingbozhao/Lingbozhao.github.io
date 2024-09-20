@@ -20,7 +20,7 @@ Abstract
 This paper focuses on how the phenomenon of naturalized athletes has caused unprecedented domestic discussions on issues of national identity in China. Using online data collected from Sina Weibo, it discusses how the Chinese public reacted to prominent cases of naturalization of athletes in such different sports fields as men’s football and a variety of winter sports. It interrogates how Chinese citizens view the possibilities and realities of this particular category of immigrants, and how the appropriate boundaries of 'Chineseness' have been debated and contested. The paper found that Chinese public reaction to naturalization of foreign athletes is overall mixed, which is conditioned on an ethno-racial view of Chinese descent, cultural heritage and linguistic affinity. The paper concludes with reflections on the ethno-racial foundation of the Chinese national identity and the challenges the country will face in a future of accelerated international migration.
 
 
-Journal of Contemporary China, 33(145), 52–64.[Link](https://doi.org/10.1080/10670564.2023.2179391)
+*Journal of Contemporary China*, 33(145), 52–64.[Link](https://doi.org/10.1080/10670564.2023.2179391)
 
 
 # Working paper
