@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Papers"
+title: "Research and Papers"
 permalink: /publications/
 author_profile: true
 ---
+
+My substantive research interests focus on political behaviors of firms on climate regulations and geopolitical tensions. While firm-centered studies have explored multinationals' political influence in promoting global economic integration over the past decades, my dissertation aims to investigate their political efforts to respond to the rising tide of political disintegration in the global market, where firms and states are already interconnected through supply chain networks. My research delves into how firms politically maneuver in response to foreign policies that may create trade barriers, especially considering their integration within global supply chains, shifting firms' viewpoint from passive policy recipients to proactive participants. Specifically, I concentrate on two significant issues: the U.S. economic sanctions against trading partners, mainly Russia, and the imposition of carbon emission tariffs on imported goods from outside Europe. I am also working on collaborative projects. One co-authored project with Professor Xun Cao studies formal and informal political activities on climate politics, which explores how firms' assessment of the impact of climate change motivates firms' political actions in the context of climate politics. 
+
+Additionally, I am interested in other issues related to de-globalization. A co-authored paper with Professor Enze Han on Chinese public backlash against international migration has been published in the Journal of Contemporary China.
+
+
+
+
 
 ## Global Value Chains and Corporate Opposition to Sanctions
 
@@ -31,6 +39,16 @@ Abstract
 The EU's Carbon Border Adjustment Mechanism (CBAM) charges a carbon price on imported products whose production-related emissions have not been taxed by the exporting states. This mechanism is intended to incentivize more states and regional organizations to develop carbon pricing schemes to obtain the exemption status and reduce emissions in collective efforts. However, the levels of emission regulation development vary significantly among exporting states, as states are either reluctant or incapable of mitigation efforts. Therefore, this paper aims to explore whether EU-based firms’ supply chains with suppliers from different exporting states would shape contrasting political preferences on the mechanism. Conventionally, firms sourcing from foreign partners are considered unconditionally against importing regulatory costs. I argue that depending on the footprints of supply chains, some firms can be strategically supportive to the mechanism: importing firms with suppliers from states with relatively advanced levels of emission regulations (suppliers from "cleaner states") are more likely to support the additional importing tariff as they are more likely to enjoy the exemption or reduction benefits. Meanwhile, the CBAM poses additional costs to their competitors who partner with suppliers from states with limited levels of carbon regulation development (suppliers from “dirtier states”). On the contrary, firms with suppliers from “dirtier states” are more likely to oppose the CBAM due to the additional carbon price. 
 
 Using firm-level supply chain data and the EU lobbying records, the empirical analysis examines whether firms' reliance on suppliers from cleaner or dirtier states shapes their stances on supporting or opposing the CBAM and related legislation. Specifically, the main outcome variable is on EU-based firms' political activities using the lobbying and public expressions archived provided by the EU Transparency Register. The paper not only determines whether a firm has lobbied on relevant issues but also analyzes the firms' stances using text analysis approaches applied to the documents they submitted during the EU's public consultation sessions. The main independent variable is based on firm-level supply chain information from the Factset Revere Dataset and the state-level emission regulation development indicators based on the Regulatory Indicators for Sustainable Energy (RISE) Dataset provided by the World Bank. 
+
+## (Sideline project) Naturalized Athletes and Racialized National Identity in China (with Enze Han)
+
+
+Abstract
+
+This paper focuses on how the phenomenon of naturalized athletes has caused unprecedented domestic discussions on issues of national identity in China. Using online data collected from Sina Weibo, it discusses how the Chinese public reacted to prominent cases of naturalization of athletes in such different sports fields as men’s football and a variety of winter sports. It interrogates how Chinese citizens view the possibilities and realities of this particular category of immigrants, and how the appropriate boundaries of 'Chineseness' have been debated and contested. The paper found that Chinese public reaction to naturalization of foreign athletes is overall mixed, which is conditioned on an ethno-racial view of Chinese descent, cultural heritage and linguistic affinity. The paper concludes with reflections on the ethno-racial foundation of the Chinese national identity and the challenges the country will face in a future of accelerated international migration.
+
+
+[Link to the Journal of Contemporary China](https://doi.org/10.1080/10670564.2023.2179391)
 
 
 
