@@ -32,7 +32,7 @@ Abstract
 Economic sanctions entail high costs not only for target states but also for sending states, particularly their business sectors. While considerable literature exists on state-level factors that affect sanction design and enforcement, less is known about business actors' responses to and political influence on sanctions. This paper examines the circumstances under which firms attempt to influence sanction policies during the decision-making process of the state imposing them. Specifically, it investigates how firms' international connections affect their motivation to lobby against sanctions in the US Congress. I argue that firms will be more likely to lobby against sanctions on a particular state when the state plays a more important role in the firms' global value chains, as well as when the sanctions would harm the firms' foreign investments and trade. I test my argument using original data on US firms' lobbying over bills proposing economic sanctions against Russia from 2014 to 2022. The findings support my expectations. This paper is the first to explain, from the perspective of firms, how their global economic ties shape their stance on sanctions, offering an understanding of how private sector interests influence foreign policy decisions.
 
 
-(Under review) [Download](https://www.dropbox.com/scl/fi/oq5hb4phyc7939x0x7ns6/GVC_Sanction_Lingbo.pdf?rlkey=69xf38kyf48cjs4my2vqd8zey&st=gnxmsnap&dl=0)
+(Revise and Resubmit) [Download](https://www.dropbox.com/scl/fi/oq5hb4phyc7939x0x7ns6/GVC_Sanction_Lingbo.pdf?rlkey=69xf38kyf48cjs4my2vqd8zey&st=gnxmsnap&dl=0)
 
 ## Do Firm-level Climate Change Risks Drive Firm Lobby in Climate Change Policies? (with Xun Cao)
 
