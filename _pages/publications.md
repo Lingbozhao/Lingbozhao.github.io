@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-My substantive research interests focus on the political behaviors of firms on climate regulations and geopolitical tensions. While firm-centered studies have explored multinationals' political influence in promoting global economic integration over the past decades, my dissertation aims to investigate their political efforts to respond to the rising tide of political disintegration in the global market, where firms and states are already interconnected through supply chain networks. My research delves into how firms politically maneuver in response to foreign policies that may create trade barriers, especially considering their integration within global supply chains, shifting firms' viewpoint from passive policy recipients to proactive participants. Specifically, I concentrate on two significant issues: the U.S. economic sanctions against trading partners, mainly Russia, and the imposition of carbon emission tariffs on imported goods from outside Europe. I am also working on collaborative projects. One co-authored project with Professor Xun Cao studies formal and informal political activities on climate politics, which explores how firms' assessment of the impact of climate change motivates firms' political actions in the context of climate politics. 
+
+My research investigates how firms embedded in transnational supply chains navigate and shape global climate governance and other foreign policies. By integrating insights from political science, economics, and corporate studies, I develop a new framework for understanding global trade politics that emphasizes how firms' regulatory exposure across supply chains generates distinct political preferences and coalitions. This approach uncovers new cleavages in corporate lobbying around climate regulations, sanctions, and industrial policy. My dissertation explores three core questions: (1) how supply-chain exposure across different regulatory contexts drives corporate political preferences over transnational carbon regulations, (2) how firm-level interdependence shapes corporate responses to sanctions, and (3) how asset exposure informs corporate climate policy engagement. My other research projects examine how firms reconfigure supplier networks under new climate rules, spread environmental norms and policies to emerging economies, and manage regulatory risks in authoritarian markets. My research utilizes large-scale observational data on firms, their supply chain characteristics, and their political activities. I have also developed a novel text analysis pipeline with computational methods to infer political stances. 
 
 Additionally, I am interested in other issues related to de-globalization. A co-authored paper with Professor Enze Han on Chinese public backlash against international migration has been published in the Journal of Contemporary China.
 
@@ -34,25 +35,34 @@ Economic sanctions entail high costs not only for target states but also for sen
 
 (Conditionally Accepted at International Studies Quarterly) [Download]
 
-## Do Firm-level Climate Change Risks Drive Firm Lobby in Climate Change Policies? (with Xun Cao)
+## Do Firm-level Climate Change Exposures Drive Firm Political Actions in Climate Change? (with Xun Cao)
 
 
 Abstract
 
-Are firms associated with higher climate change physical risks (e.g., from wildfire and floods) and regulatory risks (e.g., regulations banning/heavily taxing fossil fuel extraction) more likely to act politically to affect climate change policies? Do firms associated with climate-related opportunities (e.g., those in renewable energy) push for more climate policies? To answer these important questions, we use a newly available data on firm climate risks, and we test whether and how these firm level climate risks affect three types of firm political actions: 1) lobbying, 2) participation in ad hoc climate coalitions, and 3) donations. Our empirical analysis covers all listed companies in North America from 2001 to 2020. We find that first, a firm's physical exposure to climate change has no effect on any type of political action. Second, both firm regulatory and opportunity exposures increase the chances of a firm lobbying in climate-related policies. Third, firm regulatory exposure is positively associated with coalition membership regardless of whether a coalition supports or opposes climate policies, while opportunity exposure is only positively associated with coalitions favoring climate policies. Finally, we find that none of the firm-year level climate exposure measures is associated with firm donation.  
+Are firms with higher climate change physical and regulatory risks more likely to influence climate policies? Do firms with climate-related opportunities push for stronger climate policies? Drawing on newly available data, we examine how firm-level climate risks shape three political actions: lobbying, ad hoc coalition participation, and donations. Our analysis covers all listed firms in North America from 2001 to 2020. We find that firm physical exposure to climate change does not affect political actions, while regulatory and opportunity exposures both increase the likelihood of lobbying. Furthermore, regulatory exposure is positively linked to joining either pro- or anti-climate policy coalitions, whereas opportunity exposure is positively associated only with pro-climate coalitions. Finally, none of the climate exposure measures predicts firms’ political donations. Overall, these findings highlight the distinct ways in which firm-level climate change risks and opportunities drive political engagement in climate politics. 
+
 
 (Revise and Resubmit at British Journal of Political Science) [Presentation Slides](https://www.dropbox.com/scl/fi/nko807z4zbpnt15p8r9dj/APSA_24__Xun_Lingbo-1.pdf?rlkey=pqj9hc70ir23ga9h16wf9br4a&st=nllf8dj9&dl=0)
 
 
-##  Supply Chains and Political Strategies: Analyzing Firm Responses to the EU's Carbon Border Adjustment Mechanism
+##  Embedded Global Supply Chains and Firms’ Political Strategies: The Case of the EU's Carbon Border Adjustment Mechanism 
 
 Abstract
 
-This paper examines how supply chain exposure on upstream regulatory environments shapes corporate political stances toward carbon tariffs, focusing on the EU's Carbon Border Adjustment Mechanism (CBAM). I argue that firms embedded in transnational supply chains that source from states with stringent carbon emission regulations are more likely to support CBAM. These firms stand to gain from potential exemptions or reduced tariffs, while seeing their competitors, who source from less-regulated states, face higher import costs. In contrast, firms with exposure to suppliers in weakly regulated states are more likely to oppose CBAM, anticipating increased compliance burdens. Using firm-level supply chain data and political activity records from the EU Transparency Register, I test whether variation in supply chain regulatory exposure systematically predicts EU-based firms' support or opposition to CBAM and related legislation. I further employ text analysis on public consultation submissions to assess firms' positions. The results show that variation in suppliers' regulatory environments systematically divides firms' positions on climate tariffs, underscoring how transnational production networks reshape corporate climate politics.
+This paper examines how transnational supply chains shape firms' political responses to climate-related trade policies. I argue that global supply chains generate asymmetric regulatory exposure: firms face different political incentives depending on the environmental regulations governing their upstream suppliers. Firms sourcing from highly regulated jurisdictions are more likely to support carbon tariffs, which reinforce their competitive advantage by imposing costs on less-regulated rivals. In contrast, firms embedded in supply chains linked to the least regulated jurisdictions are more likely to resist such policies, given the compliance costs they incur. To test the theory, I analyze the case of the EU's Carbon Border Adjustment Mechanism (CBAM). Using firm-level supply chain data and political activity records from the EU Transparency Register, I empirically analyze whether reliance on suppliers from states with different levels of emission regulatory stringency shapes EU-based firms' support or opposition to CBAM and related legislation. Text analysis techniques are also applied to firms' submitted documents during the EU's public consultation to determine their stances. The results show that variation in suppliers' regulatory environments systematically divides firms' positions on climate tariffs, underscoring how global supply chains produce new political cleavages in climate governance.
 
 # Work in progress
 
 ##  Have Global Supply Chains Made Developing Country Supplier Firms Greener? Evidence from Chinese Manufacturing Firms’ Carbon Emissions (with Xun Cao, Mingqin Wu)
+
+##  Do Carbon Tariffs Reshape Global Supply Chains? Examining the Effect of the EU Carbon Border Adjustment Mechanism (CBAM) on European Firms' Supply Chain Adjustments (with Xun Cao)
+
+##  The Role of Supply Chains in Spreading Environmental Norms through Trade Treaties
+
+##  Weaponizing Ambiguity: How China's Strategic Regulatory Uncertainty Reshapes FDI in an Era of Geopolitical Tension
+
+##  Citizens' Support for Foreign Sanctions against Their Own Government (with Jia Li)
 
 
 
