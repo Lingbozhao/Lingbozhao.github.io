@@ -13,6 +13,16 @@ Additionally, I am interested in other issues related to de-globalization. A co-
 
 # Publications
 
+## Global Value Chains and Corporate Opposition to Sanctions
+
+Abstract
+
+Economic sanctions entail high costs not only for target states but also for sending states, particularly their business sectors. While considerable literature exists on state-level factors that affect sanction design and enforcement, less is known about business actors' responses to and political influence on sanctions. This paper examines the circumstances under which firms attempt to influence sanction policies during the decision-making process of the state imposing them. Specifically, it investigates how firms' international connections affect their motivation to lobby against sanctions in the US Congress. I argue that firms will be more likely to lobby against sanctions on a particular state when the state plays a more important role in the firms' global value chains, as well as when the sanctions would harm the firms' foreign investments and trade. I test my argument using original data on US firms' lobbying over bills proposing economic sanctions against Russia from 2014 to 2022. The findings support my expectations. This paper is the first to explain, from the perspective of firms, how their global economic ties shape their stance on sanctions, offering an understanding of how private sector interests influence foreign policy decisions.
+
+
+(Forthcoming at International Studies Quarterly)
+
+
 ## Naturalized Athletes and Racialized National Identity in China (with Enze Han)
 
 
@@ -26,14 +36,6 @@ This paper focuses on how the phenomenon of naturalized athletes has caused unpr
 
 # Working paper
 
-## Global Value Chains and Corporate Opposition to Sanctions
-
-Abstract
-
-Economic sanctions entail high costs not only for target states but also for sending states, particularly their business sectors. While considerable literature exists on state-level factors that affect sanction design and enforcement, less is known about business actors' responses to and political influence on sanctions. This paper examines the circumstances under which firms attempt to influence sanction policies during the decision-making process of the state imposing them. Specifically, it investigates how firms' international connections affect their motivation to lobby against sanctions in the US Congress. I argue that firms will be more likely to lobby against sanctions on a particular state when the state plays a more important role in the firms' global value chains, as well as when the sanctions would harm the firms' foreign investments and trade. I test my argument using original data on US firms' lobbying over bills proposing economic sanctions against Russia from 2014 to 2022. The findings support my expectations. This paper is the first to explain, from the perspective of firms, how their global economic ties shape their stance on sanctions, offering an understanding of how private sector interests influence foreign policy decisions.
-
-
-(Conditionally Accepted at International Studies Quarterly) [Download]
 
 ## Do Firm-level Climate Change Exposures Drive Firm Political Actions in Climate Change? (with Xun Cao)
 
