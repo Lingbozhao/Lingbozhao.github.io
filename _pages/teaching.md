@@ -17,8 +17,7 @@ quantitative analysis, (advanced) text analysis, and deep learning.
 
 
 
-**PLSC 309: Quantitative Political Analysis** introduces students to the foundational tools of empirical research in political science. The course teaches students how to turn complex political phenomena into measurable data, visualize and analyze those data using statistics, and draw valid inferences about real-world issues. Students learn how political scientists use quantitative evidence to test theories, evaluate claims, and communicate results to academic and public audiences. The class emphasizes hands-on learning with R and RStudio, regular lab assignments, and an original research project that culminates in a professional research poster. :contentReference[oaicite:0]{index=0}
-
+**PLSC 309: Quantitative Political Analysis** introduces students to the foundational tools of empirical research in political science. The course teaches students how to turn complex political phenomena into measurable data, visualize and analyze those data using statistics, and draw valid inferences about real-world issues. Students learn how political scientists use quantitative evidence to test theories, evaluate claims, and communicate results to academic and public audiences. The class emphasizes hands-on learning with R and RStudio, regular lab assignments, and an original research project that culminates in a professional research poster. 
 
 - **Software:** R and RStudio  
 - **Major Assignments:** Lab reports, two exams, independent research project, and in-class poster presentation
