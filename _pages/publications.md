@@ -8,8 +8,6 @@ author_profile: true
 
 My research investigates how firms embedded in transnational supply chains navigate and shape global climate governance and other foreign policies. By integrating insights from political science, economics, and corporate studies, I develop a new framework for understanding global trade politics that emphasizes how firms' regulatory exposure across supply chains generates distinct political preferences and coalitions. This approach uncovers new cleavages in corporate lobbying around climate regulations, sanctions, and industrial policy. My dissertation explores three core questions: (1) how supply-chain exposure across different regulatory contexts drives corporate political preferences over transnational carbon regulations, (2) how firm-level interdependence shapes corporate responses to sanctions, and (3) how asset exposure informs corporate climate policy engagement. My other research projects examine how firms reconfigure supplier networks under new climate rules, spread environmental norms and policies to emerging economies, and manage regulatory risks in authoritarian markets. My research utilizes large-scale observational data on firms, their supply chain characteristics, and their political activities. I have also developed a novel text analysis pipeline with computational methods to infer political stances. 
 
-Additionally, I am interested in other issues related to de-globalization. A co-authored paper with Professor Enze Han on Chinese public backlash against international migration has been published in the Journal of Contemporary China.
-
 
 # Publications
 
